@@ -1,5 +1,5 @@
 ---
-title: Managing tags
+title: Tagged Bruh
 intro: 'You can use {% data variables.product.prodname_desktop %} to create, push, and view tags.'
 redirect_from:
   - /desktop/contributing-to-projects/managing-tags
